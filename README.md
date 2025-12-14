@@ -14,23 +14,32 @@ This repository provides notes and resources I have collated while studying for 
 
 
 # Domains
-The exam covers 5 domains or objectives of study: https://www.comptia.org/en-us/certifications/pentest/v3/#objectives
+The exam covers 4 domains or areas of study.  
 
 | # | Domain   | Percentage|
 |---|---|---|
-|1.0 | [Engagement Management](https://github.com/craigrachow/PenTest-Plus/blob/main/engagement-management.md) | 13%| 
+|1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 26%| 
 |2.0 | [Reconnaissance and Enumeration](https://github.com/craigrachow/PenTest-Plus/blob/main/reconnaissance-and-enumeration.md) | 21%|
 |3.0 | [Vulnerability Discovery and Analysis](https://github.com/craigrachow/PenTest-Plus/blob/main/vulnerability-discovery-and-analysis.md) | 17%|
 |4.0 | [Attacks and Exploits](https://github.com/craigrachow/PenTest-Plus/blob/main/attacks-and-exploits.md) | 35%|
 |5.0 | [Post-Exploitation and Lateral Movement](https://github.com/craigrachow/PenTest-Plus/blob/main/post-exploitation-and-lateral-movement.md) | 14%|
 | | | 100%|
 
-## Domains and Objectives Expanded
-**Engagement management (13%)**     
-- Planning and scoping: defining rules of engagement, testing windows, and target selection. 
-- Legal and ethical compliance: ensuring authorization letters, mandatory reporting, and adherence to regulations.  
-- Collaboration and communication: aligning with stakeholders through peer reviews, escalation paths, and risk articulation.
-- Penetration test reports: creating reports with executive summaries, findings, and remediation recommendations.
+## Domains and Areas Expanded
+**Governance (26%)**     
+-  **1A Organizational Governance** 
+-  1A1 Strategy, Goals, and Objectives 
+-  1A2 Organizational Structure, Roles, and Responsibilities 
+- 1A3 Organizational Culture and Ethics 
+- 1A4 Policies and Standards 
+- 1A5 Business Processes and Resilience (e.g., DRP, BCP) 
+- 1A6 Organizational Asset Management 
+- **1B Risk Governance** 
+- 1B1 Enterprise Risk Management (ERM) 
+- 1B2 Lines of Defense 
+- 1B3 Risk Profile 
+- 1B4 Risk Appetite and Risk Tolerance 
+- 1B5 Risk Frameworks, Legal, Regulatory, and Contractual Requirements
 
 **Reconnaissance and enumeration (21%)** 
 - Active and passive reconnaissance: gathering information using open-source intelligence (OSINT), network sniffing, and protocol scanning.
