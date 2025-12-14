@@ -21,7 +21,7 @@ The exam covers 4 domains or areas of study.
 |1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 26%| 
 |2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/iskassessment.md) | 22%|
 |3 | [Risk Response and Reporting](https://github.com/craigrachow/CISM/blob/main/riskresponseandreporting.md) | 32%|
-|4.0 | [Attacks and Exploits](https://github.com/craigrachow/CISM/blob/main/governance.md) | 35%|
+|4 | [Technology and Security](https://github.com/craigrachow/CISM/blob/main/technologyandsecurity.md) | 20%|
 | | | 100%|
 
 ## Domains and Areas Expanded
@@ -70,17 +70,19 @@ The exam covers 4 domains or areas of study.
 - 3C5 Risk and Control Reporting Techniques (e.g., heatmap, scorecards, dashboards) 
 - 3C6 Monitoring and Reporting of Emerging Risks
 
-**Attacks and exploits (35%)** 
-- Network attacks: performing VLAN hopping, on-path attacks, and service exploitation.
-- Authentication attacks: executing brute-force attacks, pass-the-hash, and credential stuffing.
-- Host-based attacks: conducting privilege escalation, process injection, and credential dumping.
-- Web application attacks: performing SQL injection, cross-site scripting (XSS), and directory traversal.
-- Cloud-based attacks: exploiting container escapes, metadata service attacks, and identity and access management (IAM) misconfiguration.
-- AI attacks: explaining prompt injection and model manipulation against artificial intelligence systems.
-
-**Post-exploitation and lateral movement (14%)** 
-- Post-exploitation activities: establishing persistence, performing lateral movement, and cleaning up artifacts.
-- Documentation: creating attack narratives and providing remediation recommendations.
+**Technology and Security (20%)** 
+- **4A Technology Principles**
+- 4A1 Technology Roadmaps and Enterprise Architecture (EA) 
+- 4A2 Operations Management (e.g., change management, assets, DevOps, problems, incidents) 
+- 4A3 System Development Life Cycle (SDLC) 
+- 4A4 Data Lifecycle Management 
+- 4A5 Portfolio and Project Management (e.g. Agile) 
+- 4A6 Technology Resilience and Disaster Response/Recovery 
+- 4A7 Emerging Technologies 
+- **4B Information Security Principles** 
+- 4B1 Security Concepts, Frameworks, and Standards 
+- 4B2 Security/Risk Awareness and Training 
+- 4B3 Data Privacy and Data Protection Principles
 
 ## References
 * Chapple, M., & Seidl, D. (2022). CompTIA PenTest+ Study Guide: Exam PT0-002 (2nd ed.). Sybex. https://amzn.to/4nBYBOF
