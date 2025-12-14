@@ -19,10 +19,9 @@ The exam covers 4 domains or areas of study.
 | # | Domain   | Percentage|
 |---|---|---|
 |1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 26%| 
-|2.0 | [Reconnaissance and Enumeration](https://github.com/craigrachow/PenTest-Plus/blob/main/reconnaissance-and-enumeration.md) | 21%|
-|3.0 | [Vulnerability Discovery and Analysis](https://github.com/craigrachow/PenTest-Plus/blob/main/vulnerability-discovery-and-analysis.md) | 17%|
-|4.0 | [Attacks and Exploits](https://github.com/craigrachow/PenTest-Plus/blob/main/attacks-and-exploits.md) | 35%|
-|5.0 | [Post-Exploitation and Lateral Movement](https://github.com/craigrachow/PenTest-Plus/blob/main/post-exploitation-and-lateral-movement.md) | 14%|
+|2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/iskassessment.md) | 22%|
+|3 | [Risk Response and Reporting](https://github.com/craigrachow/CISM/blob/main/riskresponseandreporting.md) | 32%|
+|4.0 | [Attacks and Exploits](https://github.com/craigrachow/CISM/blob/main/governance.md) | 35%|
 | | | 100%|
 
 ## Domains and Areas Expanded
@@ -41,16 +40,35 @@ The exam covers 4 domains or areas of study.
 - 1B4 Risk Appetite and Risk Tolerance 
 - 1B5 Risk Frameworks, Legal, Regulatory, and Contractual Requirements
 
-**Reconnaissance and enumeration (21%)** 
-- Active and passive reconnaissance: gathering information using open-source intelligence (OSINT), network sniffing, and protocol scanning.
-- Enumeration techniques: performing DNS enumeration, service discovery, and directory enumeration.
-- Reconnaissance tools: using tools like Nmap, Wireshark, and Shodan for information gathering.
-- Script modification: customizing Python, PowerShell, and Bash scripts for reconnaissance and enumeration.
+**Risk Assessment (22%)** 
+- **2A Risk Identification**
+- 2A1 Risk Events
+- 2A2 Threat Modeling and Threat Landscape
+- 2A3 Vulnerability Management
+- 2A4 Risk Scenario Development and Evaluation
+- **2B Risk Analysis**
+- 2B1 Risk Assessment Concepts and Standards
+- 2B2 Business Impact Analysis (BIA)
+- 2B3 Risk Register
+- 2B4 Risk Analysis Methodologies
+- 2B5 Inherent and Residual Risk
 
-**Vulnerability discovery and analysis (17%)** 
-- Vulnerability scans: conducting authenticated, unauthenticated, static application security testing (SAST) and dynamic application security testing (DAST).
-- Result analysis: validating findings, troubleshooting configurations, and identifying false positives.
-- Discovery tools: using tools like Nessus, Nikto, and OpenVAS for vulnerability discovery.
+**Risk Response and Reporting (32%)** 
+- **3A Risk Response** 
+- 3A1 Risk Response Options 
+- 3A2 Risk and Control Ownership 
+- 3A3 Vendor/Supply Chain Risk Management 
+- 3A4 Issues, Findings, Exceptions and Exemptions Management 
+- **3B Control Design and Implementation** 
+- 3B1 Control Frameworks, Types, and Standards 
+- 3B2 Control Design, Selection, Implementation, and Analysis 
+- 3B3 Control Testing Methodologies 
+- **3C Risk Monitoring and Reporting** 
+- 3C1 Risk Action Plans 
+- 3C2 Data Collection, Aggregation, Analysis, and Validation 
+- 3C3 Risk and Control Metrics (e.g., KRIs, KCIs, KPIs) 3C4 Risk and Control Monitoring Techniques 
+- 3C5 Risk and Control Reporting Techniques (e.g., heatmap, scorecards, dashboards) 
+- 3C6 Monitoring and Reporting of Emerging Risks
 
 **Attacks and exploits (35%)** 
 - Network attacks: performing VLAN hopping, on-path attacks, and service exploitation.
