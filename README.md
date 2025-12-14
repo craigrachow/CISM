@@ -88,6 +88,7 @@ The exam covers 4 domains or areas of study.
 * Chapple, M., & Seidl, D. (2022). CompTIA PenTest+ Study Guide: Exam PT0-002 (2nd ed.). Sybex. https://amzn.to/4nBYBOF
 * Hank Hackerson CompTIA Pentest+ Exam Prep Videos - https://youtube.com/playlist?list=PLKJGe-yb9iQbh3tz2tjk7H7WcR1KwYLlF&si=1FY3HlTR0s0f3C7w 
 * DailyDebian CompTIA PenTest+ (PT0-003) Real Exam Questions 2025 - https://youtube.com/playlist?list=PLLhk30tXRjJQ3AzdY2l4UW63r51d6Nw5S&si=8RVIhyDVC9QBVcGe
+* Cybrary Live! - #CISM YouTube Videos - [Part 1](https://www.youtube.com/live/1KZyrPTg63s?si=OC4rq4pR4R1e2xcw), [Part 2](https://www.youtube.com/live/rt1CrdDy590?si=V854klJPAHFIcpmp), [Part 3](https://www.youtube.com/live/HtRiwXRxqvE?si=comx05isKDwV-yR1), [Part 4](https://www.youtube.com/live/rL3cBoyFPk0?si=xdk4eQa1itue9i8S), 
   
 ### Contacts  
 - LinkedIn: https://www.linkedin.com/in/craigrachow/
