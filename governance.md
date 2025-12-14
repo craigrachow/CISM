@@ -2,8 +2,6 @@
 
 This domain focuses on establishing and maintaining a governance framework that supports business objectives, manages risk appropriately, and integrates information security into enterprise governance.
 
----
-
 ## ISACA Overview – Information Security Governance
 
 **ISACA definition (paraphrased):**
@@ -41,7 +39,11 @@ Clear accountability ensures effective governance, decision-making, and segregat
 
 * Board: oversight and risk appetite
 * Executive management: accountability
-* CISO: strategy and reporting
+* CEO: Highest ranking executive in the company. Responsibilities include major corporate decisions, managing the overall operations and resources of the company, main point of communication between the board of directors and corporate operations.
+* COO: Senior executive who oversees the daily administrative and operational functions of a business. Typically reports to the CEO and is considered 2nd in command.
+* CRO: Responsible for enterprise risk management. Typically focused on non-IT risks.
+* CIO: Executive responsble for the management, implementation and usability of information and computer technologies. 
+* CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad. 
 * Business owners: risk ownership
 * Avoid conflicts of interest
 
