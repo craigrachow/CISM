@@ -23,11 +23,15 @@ Information security strategy must align with enterprise strategy and support bu
 * Frameworks provide structure and best practice.
 * Legal and regulatory requirements are mandatory.
 * Contracts extend security obligations to third parties.
-* Governance ensures compliance is monitored and enforced. It gives direction and oversight.
-* Strategy defines the desired state of security. a roadmap can lead you to the desired state.
-* Management implements direction set by governance, following roadmap set by strategy.
-* Enterprise governance is the overall framework of rules, policies, standards, and procedures that direct, monitor, and control all activities accross an organisation.
-* Information security governance is a subset of the above focused on protecting the organisations information assets.
+* Governance ensures compliance is monitored and enforced. It gives direction and oversight. Establishes the overall security vision and risk appetite. 
+* Strategy defines the desired state of security. a roadmap can lead you to the desired state. translates governance into action plans.
+* Management implements direction set by governance, following roadmap set by strategy. Management implements and maintains the security controls.
+* Enterprise governance is the overall framework of rules, policies, standards, and procedures that direct, monitor, and control all activities across an organisation.
+* Information security governance is a subset of the above focused on protecting the organisations information assets. Top down activity.  Ensures security program and initiatives align and support business objectives. Translates strategic objectives into actionable policies, controls and metrics. **To ensure that the information security strategy is in alignment with the strategic goals and objectives of the business.  
+
+* Accountability is the obligation to answer for one's actions, decisions or results. it CANNOT be delegated, it rests with the person who originally assigned the task.
+* Responsibility is the duty or obligation to complete a task or achieve a specific goal. Can be delegated but the delegator still remains accountable for the outcome.
+* 
 
 **Example:************
 If the business strategy is cloud-first, the security strategy prioritises cloud governance, shared responsibility models, and data classification.
