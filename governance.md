@@ -23,7 +23,11 @@ Information security strategy must align with enterprise strategy and support bu
 * Frameworks provide structure and best practice.
 * Legal and regulatory requirements are mandatory.
 * Contracts extend security obligations to third parties.
-* Governance ensures compliance is monitored and enforced.
+* Governance ensures compliance is monitored and enforced. It gives direction and oversight.
+* Strategy defines the desired state of security. a roadmap can lead you to the desired state.
+* Management implements direction set by governance, following roadmap set by strategy.
+* Enterprise governance is the overall framework of rules, policies, standards, and procedures that direct, monitor, and control all activities accross an organisation.
+* Information security governance is a subset of the above focused on protecting the organisations information assets.
 
 **Example:************
 If the business strategy is cloud-first, the security strategy prioritises cloud governance, shared responsibility models, and data classification.
