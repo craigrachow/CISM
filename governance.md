@@ -65,6 +65,9 @@ Security governance must promote ethical behaviour and a culture of risk awarene
 * Tone at the top matters
 * Culture influences compliance more than controls
 * Ethics reduce insider risk
+* Accountability: The right to hold people to a set standard and to judge whether they have fulfilled their responsibilities in light of the standards.
+* Transparency: Provide timely reporting of potential issues faced by the enterprise. Stakeholders should have a transparent view of the organisation on a regular basis to understand the risk posed to their investments.
+* Responsibility: The actions to be performed by stakeholders as part of the corporate governance structure. Fauling to fulfill the responsibilities could result in risk. 
 
 **Example:**
 A strong security culture encourages staff to report phishing attempts without fear of punishment.
