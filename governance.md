@@ -43,7 +43,10 @@ Clear accountability ensures effective governance, decision-making, and segregat
 * COO: Senior executive who oversees the daily administrative and operational functions of a business. Typically reports to the CEO and is considered 2nd in command.
 * CRO: Responsible for enterprise risk management. Typically focused on non-IT risks.
 * CIO: Executive responsble for the management, implementation and usability of information and computer technologies. 
-* CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad. 
+* CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad.
+* Information Security Manager: Offers leadership in determining the methodology for the identification, evaluation and minimisation of risk to information resources including IT systems. Work closely with senior management to ensure risk is assessed regularly.
+* Data Owner: Operations focused, makes decisions on how data is accessed, edited, and used. Determines classification and is accountable for risks associated with data. Functional or business unit leader that determine appropriate trade offs for security.
+* Data Custodian: Responsible for day-to-day maintenance and configuration of data security controls. May be called security practitioners. 
 * Business owners: risk ownership
 * Avoid conflicts of interest
 
