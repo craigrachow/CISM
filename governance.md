@@ -31,7 +31,8 @@ Information security strategy must align with enterprise strategy and support bu
 
 * Accountability is the obligation to answer for one's actions, decisions or results. it CANNOT be delegated, it rests with the person who originally assigned the task.
 * Responsibility is the duty or obligation to complete a task or achieve a specific goal. Can be delegated but the delegator still remains accountable for the outcome.
-* 
+* Consulted provided subject matter expertise and input that affects the repsonsibility.
+* Informed recieves status updates but does not provide input. 
 
 **Example:************
 If the business strategy is cloud-first, the security strategy prioritises cloud governance, shared responsibility models, and data classification.
@@ -45,13 +46,15 @@ Clear accountability ensures effective governance, decision-making, and segregat
 
 **Key points:**
 
-* Board: oversight and risk appetite
-* Executive management: accountability
+* Board: oversight and risk appetite. 
+* Executive management: accountability. Ensure business alignment with business goals. 
 * CEO: Highest ranking executive in the company. Responsibilities include major corporate decisions, managing the overall operations and resources of the company, main point of communication between the board of directors and corporate operations.
 * COO: Senior executive who oversees the daily administrative and operational functions of a business. Typically reports to the CEO and is considered 2nd in command.
 * CRO: Responsible for enterprise risk management. Typically focused on non-IT risks.
 * CIO: Executive responsble for the management, implementation and usability of information and computer technologies. 
-* CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad.
+* CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad. Ensuring security alignment meets business goals.
+* Risk owners: People formally accountable for managing risks within their sphere.
+* Control owners: Those responsible for deploying and manintaing controls. 
 * Information Security Manager: Offers leadership in determining the methodology for the identification, evaluation and minimisation of risk to information resources including IT systems. Work closely with senior management to ensure risk is assessed regularly.
 * Data Owner: Operations focused, makes decisions on how data is accessed, edited, and used. Determines classification and is accountable for risks associated with data. Functional or business unit leader that determine appropriate trade offs for security.
 * Data Custodian: Responsible for day-to-day maintenance and configuration of data security controls. May be called security practitioners. 
