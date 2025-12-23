@@ -28,13 +28,14 @@ Organizational culture influences how people perceive, value, and act on securit
 - Governance sets the 'why' and 'what'. It ensures compliance is monitored and enforced. It gives direction and oversight. Establishes the overall security vision and risk appetite.
 - Strategy defines the 'how' of desired state of security. a roadmap can lead you to the desired state. translates governance into action plans.
 - Management 'executes the how' implements direction set by governance, following roadmap set by strategy. Management implements and maintains the security controls.
-- 
+- Risk Management is shared understanding of the organisations risk profile to identify and mitigate risk, or keep risk within the tolerance level.  
 
 **Memory hook:**  
 > *Culture determines what people do when no one is watching.*
 
 **Example:**  
-Employees report phishing attempts without fear of blame, improving detection and response.
+Employees report phishing attempts without fear of blame, improving detection and response.  
+Assurance Processes is methods and activities that confirm stakeholders security controls and policies. eg. risk assesments, security audits, vulnerability scans, compliance reviews.
 
 ---
 
