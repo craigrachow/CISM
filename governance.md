@@ -1,11 +1,5 @@
-# CISM Reference Guide – Governance & Risk Management
-
-**Domain 1: Information Security Governance (17%)** and  
-**Domain 2: Information Security Risk Management (20%)**, using ISACA-aligned descriptions, business-focused context, and exam memory aids.
-
----
-
-## Domain 1 – Information Security Governance (17%)
+# CISM Domain 1 – Information Security Governance (17%)
+Information security governance is a subset of the above focused on protecting the organisations information assets. Top down activity. Ensures security program and initiatives align and support business objectives. Translates strategic objectives into actionable policies, controls and metrics. **To ensure that the information security strategy is in alignment with the strategic goals and objectives of the business.
 
 ### ISACA Domain Description (Paraphrased)
 Information Security Governance ensures that security strategies align with business objectives, risk is managed appropriately, resources are used responsibly, and performance is measured and reported to stakeholders.
@@ -17,7 +11,7 @@ Information Security Governance ensures that security strategies align with busi
 ## Part A – Enterprise Governance
 
 ### 1A1 Organizational Culture
-Information security governance is a subset of the above focused on protecting the organisations information assets. Top down activity. Ensures security program and initiatives align and support business objectives. Translates strategic objectives into actionable policies, controls and metrics. **To ensure that the information security strategy is in alignment with the strategic goals and objectives of the business.
+
 
 **ISACA context:**  
 Organizational culture influences how people perceive, value, and act on security and risk across the enterprise.
@@ -33,7 +27,7 @@ Organizational culture influences how people perceive, value, and act on securit
 - Responsibility is the duty or obligation to complete a task or achieve a specific goal. Can be delegated but the delegator still remains accountable for the outcome.
 - Governance sets the 'why' and 'what'. It ensures compliance is monitored and enforced. It gives direction and oversight. Establishes the overall security vision and risk appetite.
 - Strategy defines the 'how' of desired state of security. a roadmap can lead you to the desired state. translates governance into action plans.
-- Management executes the 'how' implements direction set by governance, following roadmap set by strategy. Management implements and maintains the security controls.
+- Management 'executes the how' implements direction set by governance, following roadmap set by strategy. Management implements and maintains the security controls.
 - 
 
 **Memory hook:**  
