@@ -42,13 +42,14 @@ Assurance Processes is methods and activities that confirm stakeholders security
 ### 1A2 Legal, Regulatory, and Contractual Requirements
 
 **ISACA context:**  
-Governance ensures compliance with applicable laws, regulations, and contractual obligations related to information security.
+Governance ensures compliance with applicable laws, regulations, and contractual obligations related to information security. Compliance may be legal, regulatory, or contractual. 
 
 **Key points:**
 - Laws and regulations are mandatory.
 - Contracts extend security obligations to third parties.
 - Requirements influence policy, controls, and reporting.
 - Non-compliance creates legal and reputational risk.
+- Types of compliance requirements include: Legal which is passed by government bodies. Regulatory imposed by regulatory agencies and inforced via fines. Contractual agreements between organisations.
 
 **Memory hook:**  
 > *Compliance is not optional — governance ensures it happens.*
