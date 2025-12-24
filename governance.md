@@ -106,6 +106,7 @@ Information security strategy defines how security supports and enables business
 - Focuses on value delivery and risk reduction.
 - Long-term direction, not operational detail.
 - Reviewed regularly.
+- Strategy Development starts with current state assesment. Then gap analysis occurs against future state. The strategy or roadmap outlines path forward.
 
 **Memory hook:**  
 > *Strategy answers “why”, not “how”.*
@@ -152,6 +153,59 @@ Strategic planning ensures security initiatives are resourced and prioritised ap
 A ransomware increase supports investment in backups and recovery capabilities.
 
 ---
+
+## Practice Exam Questions (CISM Style)
+
+### Question 1
+What is the PRIMARY purpose of information security governance?
+
+**Answer:** Align information security with business objectives.  
+**Explanation:** Governance exists to support business value, not technology.
+
+---
+
+### Question 2
+Who is ultimately responsible for accepting information security risk?
+
+**Answer:** Business or senior management.  
+**Explanation:** Risk acceptance is a business decision.
+
+---
+
+### Question 3
+What MOST influences the effectiveness of security controls?
+
+**Answer:** Organizational culture.  
+**Explanation:** Culture drives behaviour when controls fail.
+
+---
+
+### Question 4
+What is the PRIMARY output of a risk assessment?
+
+**Answer:** Prioritised risks to support decision-making.  
+**Explanation:** Risk assessments inform action, not documentation.
+
+---
+
+### Question 5
+Which risk response option eliminates risk entirely?
+
+**Answer:** Risk avoidance.  
+**Explanation:** Avoidance removes the activity creating the risk.
+
+---
+
+### Question 6
+Why must risk reporting be tailored to its audience?
+
+**Answer:** To enable effective decision-making.  
+**Explanation:** Executives need summaries, not technical detail.
+
+
+
+
+
 
 ## Domain 2 – Information Security Risk Management (20%)
 
@@ -280,62 +334,4 @@ Ensures risks and controls remain effective and visible over time.
 KRIs alert leadership to increasing threat activity.
 
 ---
-
-## Practice Exam Questions (CISM Style)
-
-### Question 1
-What is the PRIMARY purpose of information security governance?
-
-**Answer:** Align information security with business objectives.  
-**Explanation:** Governance exists to support business value, not technology.
-
----
-
-### Question 2
-Who is ultimately responsible for accepting information security risk?
-
-**Answer:** Business or senior management.  
-**Explanation:** Risk acceptance is a business decision.
-
----
-
-### Question 3
-What MOST influences the effectiveness of security controls?
-
-**Answer:** Organizational culture.  
-**Explanation:** Culture drives behaviour when controls fail.
-
----
-
-### Question 4
-What is the PRIMARY output of a risk assessment?
-
-**Answer:** Prioritised risks to support decision-making.  
-**Explanation:** Risk assessments inform action, not documentation.
-
----
-
-### Question 5
-Which risk response option eliminates risk entirely?
-
-**Answer:** Risk avoidance.  
-**Explanation:** Avoidance removes the activity creating the risk.
-
----
-
-### Question 6
-Why must risk reporting be tailored to its audience?
-
-**Answer:** To enable effective decision-making.  
-**Explanation:** Executives need summaries, not technical detail.
-
----
-
-## Final Exam Tip
-
-When unsure, choose the answer that:
-- Emphasises **business impact**
-- Assigns **ownership to management**
-- Focuses on **governance over operations**
-- Supports **decision-making, not tools**
 
