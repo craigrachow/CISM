@@ -133,7 +133,7 @@ Frameworks and standards provide structured approaches to governing information 
 **Example:**  
 ISO 27001 defines an ISMS aligned to business objectives.
 
----
+--- 
 
 ### 1B3 Strategic Planning (Budgets, Resources, Business Case)
 
