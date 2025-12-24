@@ -71,6 +71,21 @@ Clear roles and responsibilities ensure effective governance, decision-making, a
 - Business owners own information and risk.
 - Segregation of duties prevents conflicts.
 
+**Important Terms**
+Executive management: accountability. Ensure business alignment with business goals.
+CEO: Highest ranking executive in the company. Responsibilities include major corporate decisions, managing the overall operations and resources of the company, main point of communication between the board of directors and corporate operations.
+COO: Senior executive who oversees the daily administrative and operational functions of a business. Typically reports to the CEO and is considered 2nd in command.
+CRO: Responsible for enterprise risk management. Typically focused on non-IT risks.
+CIO: Executive responsble for the management, implementation and usability of information and computer technologies.
+CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad. Ensuring security alignment meets business goals.
+Risk owners: People formally accountable for managing risks within their sphere.
+Control owners: Those responsible for deploying and manintaing controls.
+Information Security Manager: Offers leadership in determining the methodology for the identification, evaluation and minimisation of risk to information resources including IT systems. Work closely with senior management to ensure risk is assessed regularly.
+Data Owner: Operations focused, makes decisions on how data is accessed, edited, and used. Determines classification and is accountable for risks associated with data. Functional or business unit leader that determine appropriate trade offs for security.
+Data Custodian: Responsible for day-to-day maintenance and configuration of data security controls. May be called security practitioners.
+Business owners: risk ownership
+Avoid conflicts of interest
+
 **Memory hook:**  
 > *IT manages controls, business owns risk.*
 
