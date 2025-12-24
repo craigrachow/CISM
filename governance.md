@@ -145,6 +145,10 @@ Strategic planning ensures security initiatives are resourced and prioritised ap
 - Business cases justify investment.
 - Resources must match strategy.
 - Competing priorities require trade-offs.
+- Employees roles and responsibilities, skills and education must be incorporated into the strategy.
+- Centralised security strategy is a standardised approach accross the entire organisation. Deventralised allows for local responsiveness.
+- All security programs must: Align with business goals, have senior managers support, include monitoring and reporting, maintain risk management, provide awareness training.
+- Risk management plan will identify, assess, treat risk. Also define tolerace, identification methodologies and response strategies. 
 
 **Memory hook:**  
 > *Funding follows risk and business value.*
