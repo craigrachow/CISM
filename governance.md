@@ -35,7 +35,7 @@ Organizational culture influences how people perceive, value, and act on securit
 
 **Example:**  
 Employees report phishing attempts without fear of blame, improving detection and response.  
-Assurance Processes is methods and activities that confirm stakeholders security controls and policies. eg. risk assesments, security audits, vulnerability scans, compliance reviews.
+Assurance Processes is methods and activities that confirm stakeholders security controls and policies. eg. risk assessments, security audits, vulnerability scans, compliance reviews.
 
 ---
 
@@ -49,7 +49,7 @@ Governance ensures compliance with applicable laws, regulations, and contractual
 - Contracts extend security obligations to third parties.
 - Requirements influence policy, controls, and reporting.
 - Non-compliance creates legal and reputational risk.
-- Types of compliance requirements include: Legal which is passed by government bodies. Regulatory imposed by regulatory agencies and inforced via fines. Contractual agreements between organisations.
+- Types of compliance requirements include: Legal which is passed by government bodies. Regulatory imposed by regulatory agencies and enforced via fines. Contractual agreements between organisations.
 
 **Memory hook:**  
 > *Compliance is not optional — governance ensures it happens.*
@@ -76,10 +76,10 @@ Clear roles and responsibilities ensure effective governance, decision-making, a
 - CEO: Highest ranking executive in the company. Responsibilities include major corporate decisions, managing the overall operations and resources of the company, main point of communication between the board of directors and corporate operations.
 - COO: Senior executive who oversees the daily administrative and operational functions of a business. Typically reports to the CEO and is considered 2nd in command.
 - CRO: Responsible for enterprise risk management. Typically focused on non-IT risks.
-- CIO: Executive responsble for the management, implementation and usability of information and computer technologies.
+- CIO: Executive responsible for the management, implementation and usability of information and computer technologies.
 - CISO: strategy and reporting often works under the CEO. Responsible for the C-I-A triad. Ensuring security alignment meets business goals.
 - Risk owners: People formally accountable for managing risks within their sphere.
-- Control owners: Those responsible for deploying and manintaing controls.
+- Control owners: Those responsible for deploying and manintaining controls.
 - Information Security Manager: Offers leadership in determining the methodology for the identification, evaluation and minimisation of risk to information resources including IT systems. Work closely with senior management to ensure risk is assessed regularly.
 - Data Owner: Operations focused, makes decisions on how data is accessed, edited, and used. Determines classification and is accountable for risks associated with data. Functional or business unit leader that determine appropriate trade offs for security.
 - Data Custodian: Responsible for day-to-day maintenance and configuration of data security controls. May be called security practitioners.
@@ -106,10 +106,20 @@ Information security strategy defines how security supports and enables business
 - Focuses on value delivery and risk reduction.
 - Long-term direction, not operational detail.
 - Reviewed regularly.
-- Strategy Development starts with current state assesment. Then gap analysis occurs against future state. The strategy or roadmap outlines path forward.
+- Strategy Development starts with current state assessment. Then gap analysis occurs against future state. The strategy or roadmap outlines path forward.
+- Assumptions - Information assets are known. An understanding of what it means to protect. Data life cycle management process is in place. 
 
 **Memory hook:**  
 > *Strategy answers “why”, not “how”.*
+>
+**Six outcomes of a clear information security strategy:**  
+> *Strategic Alignment - Investments align to business strategy, linking security objectives and controls to the organisations strategic plan and goals*
+> *Risk Management - Keeps risk within organisations tolerance levels. Embedding robst processes to identify, assess and address threats to data's confidentiality, integrity, and availability*
+> *Value Delivery - ensuring security investments optimise resources and produce measurable benefits*
+> *Resources Optimisation - Resources must be used efficiently. Allocating people, budget and tools efficiently o support the security program*
+> *Performance Measurement - Using KPI's,KRI's and relevant metrics to track and demonstrate the programs effectiveness*
+> *Assurance Process Integration - coordinating internal/external audit and compliance activity within the security program*
+> 
 
 **Example:**  
 A digital expansion strategy drives investment in cloud security governance.
