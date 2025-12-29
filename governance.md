@@ -119,7 +119,6 @@ Information security strategy defines how security supports and enables business
 > *Resources Optimisation - Resources must be used efficiently. Allocating people, budget and tools efficiently o support the security program*
 > *Performance Measurement - Using KPI's,KRI's and relevant metrics to track and demonstrate the programs effectiveness*
 > *Assurance Process Integration - coordinating internal/external audit and compliance activity within the security program*
-> 
 
 **Example:**  
 A digital expansion strategy drives investment in cloud security governance.
