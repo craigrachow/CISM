@@ -231,22 +231,56 @@ Information security risk management identifies, analyses, responds to, and moni
 
 ## Part A – Information Security Risk Assessment
 
+**Risk Boundaries**
+- Risk Appetite: Willingness to take risks
+- Risk Tolerance: Acceptable variation
+- Risk Capacity: Maximum barable risk
+
+**Two Types of Risk**
+- Inherent Risk - The risk in the absence of any controls. or mitigation efforts.
+- Residual Risk - The level of risk remaining after controls have been applied.
+
+**Risk Categories (types)**
+- Strategic - THreats to the organisations ability to achieve strategic objective.
+- Operational - Releates to day-to-day operations. Failure of internal process, people or systems.
+- Reputational - Erode client and stakeholder trust. May be from data breaches or unethical behaviour.
+- Compliance - Non-compliance with laws, regulations, standards. Often result in fines and penalties.
+
+ISACA context:
+Risk events are specific occurrences that could negatively impact the confidentiality, integrity, or availability of information assets.
+
+**Key points:**
+- A risk event is what happens, not the cause.
+- Must be clearly defined and business-relevant.
+- Events link threats, vulnerabilities, and impact.
+- Poorly defined events lead to poor decisions.
+- Example:
+“Unauthorised disclosure of customer data” is a risk event, not “malware infection”.
+
+---
+
 ### 2A1 Emerging Risk and Threat Landscape
 
 **ISACA context:**  
-Emerging risks and threats reflect changes in technology, business, and adversary behaviour.
+Threat modeling identifies potential threat sources and methods, while the threat landscape reflects current and emerging threats. Emerging risks and threats reflect changes in technology, business, and adversary behaviour.
 
 **Key points:**
+- Identify potential threats (technical, physical, operational). Examine vulnerabilities to identify weak points that could result in risk. Recognise assets including third parties that keep the business running.
+- 
 - Threat landscape evolves constantly.
+- Threats can be internal, external, accidental, or intentional.
 - Intelligence improves awareness.
 - Emerging risks involve uncertainty.
 - Early identification enables proactive action.
+- Focus on realistic and relevant threats.
 
 **Memory hook:**  
 > *Unknown risks become known risks through monitoring.*
 
 **Example:**  
+Ransomware targeting healthcare organisations becomes a key threat due to increased frequency and impact.
 AI adoption introduces new privacy and security concerns.
+
 
 ---
 
