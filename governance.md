@@ -266,7 +266,6 @@ Threat modeling identifies potential threat sources and methods, while the threa
 
 **Key points:**
 - Identify potential threats (technical, physical, operational). Examine vulnerabilities to identify weak points that could result in risk. Recognise assets including third parties that keep the business running.
-- 
 - Threat landscape evolves constantly.
 - Threats can be internal, external, accidental, or intentional.
 - Intelligence improves awareness.
@@ -282,44 +281,48 @@ Threat modeling identifies potential threat sources and methods, while the threa
 Ransomware targeting healthcare organisations becomes a key threat due to increased frequency and impact.
 AI adoption introduces new privacy and security concerns.
 
-
 ---
 
 ### 2A2 Vulnerability and Control Deficiency Analysis
 
 **ISACA context:**  
-Identifies weaknesses that could be exploited by threats.
+Vulnerability management identifies weaknesses that could be exploited by threats.
 
 **Key points:**
 - Vulnerabilities may be technical, procedural, or human.
 - Control deficiencies increase likelihood or impact.
-- Prioritisation is business-driven.
-- Identification ≠ acceptance.
+- Prioritisation is based on business impact.
+- Identification does not equal risk acceptance.
+- Governance focuses on process, not tools.
 
 **Memory hook:**  
 > *A vulnerability without impact is not a priority.*
 
 **Example:**  
-Lack of MFA increases the likelihood of credential compromise.
+Lack of multi-factor authentication is a vulnerability that increases the likelihood of credential theft.
 
 ---
 
 ### 2A3 Risk Assessment and Analysis
 
 **ISACA context:**  
-Risk assessment evaluates likelihood and impact to prioritise risk treatment.
+Risk assessment evaluates likelihood and impact to prioritise risk treatment. Risk assessments should follow recognised concepts and standards to ensure consistency and credibility.
 
 **Key points:**
 - Risk = likelihood × impact.
+- Scenarios combine threat, vulnerability, and impact.
 - Can be qualitative or quantitative.
 - Must be consistent and repeatable.
-- Supports decision-making.
+- Using a standard scoring matrix allows comparison of risks across departments.
+- Supports decision-making and executive-level understanding.
+- Helps prioritise risk treatment. Accept, mitigate, transfer or avoid.
 
 **Memory hook:**  
 > *Impact usually outweighs likelihood on the exam.*
 
 **Example:**  
 A low-probability outage with high financial impact is prioritised.
+
 
 ---
 
