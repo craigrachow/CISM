@@ -316,6 +316,8 @@ Risk assessment evaluates likelihood and impact to prioritise risk treatment. Ri
 - Using a standard scoring matrix allows comparison of risks across departments.
 - Supports decision-making and executive-level understanding.
 - Helps prioritise risk treatment. Accept, mitigate, transfer or avoid.
+- Quantitative - assigns a dollar value. Objective and uses formulars.
+- Qualitative - uses a scoring system. Subjective usually low medium high heat map.
 
 **Memory hook:**  
 > *Impact usually outweighs likelihood on the exam.*
