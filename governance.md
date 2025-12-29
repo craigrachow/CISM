@@ -337,10 +337,11 @@ Defines how an organisation addresses identified risk.
 
 **Key points:**
 - Accept – within appetite.
-- Mitigate – reduce risk.
-- Transfer – shift risk.
-- Avoid – eliminate activity.
+- Mitigate – reduce risk. apply a control to minimise. 
+- Transfer – shift risk to reduct probability or magnitude. ie 3rd party or insurance. 
+- Avoid – eliminate activity. 
 - Must align with appetite.
+- Risk acceptance SHOULD NOT exceed risk appetite and MUST NOT exceed risk capacity.
 
 **Memory hook:**  
 > *Avoidance removes risk; mitigation reduces it.*
