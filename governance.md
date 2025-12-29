@@ -273,6 +273,7 @@ Threat modeling identifies potential threat sources and methods, while the threa
 - Emerging risks involve uncertainty.
 - Early identification enables proactive action.
 - Focus on realistic and relevant threats.
+- Threat vector vs attack surface - threat vector is a specific way to breach. attack surface is the system itself. The strong the defences the smaller the attack surface and fewer threat vectors.
 
 **Memory hook:**  
 > *Unknown risks become known risks through monitoring.*
