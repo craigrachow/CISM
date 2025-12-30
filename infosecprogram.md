@@ -25,6 +25,10 @@ The information security program must be adequately resourced to achieve its obj
 - Skill sets must align with program needs.
 - Tools should support risk and control objectives.
 - Under-resourcing creates unmanaged risk.
+- Information Security Manager leads the program development, implementation and ongoing management.
+- Senior leadership and Board provides sponsorship, authority, resources and holds ultimate responsibility for IS (accountable).
+- SDLC phases - Initiation, Development/Acquisition, Implementation, Operations and Maintenance, Disposal.
+- Data Lifecycle - Create, CLassify, Store, Use, Archive, Destroy.
 
 **Memory hook:**  
 > *A strategy without resources is just intent.*
