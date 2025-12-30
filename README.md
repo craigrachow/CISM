@@ -19,7 +19,7 @@ The exam covers 4 domains or areas of study.
 | # | Domain   | Percentage|
 |---|---|---|
 |1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 26%| 
-|2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/iskassessment.md) | 22%|
+|2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/riskassessment.md) | 22%|
 |3 | [Risk Response and Reporting](https://github.com/craigrachow/CISM/blob/main/riskresponseandreporting.md) | 32%|
 |4 | [Technology and Security](https://github.com/craigrachow/CISM/blob/main/technologyandsecurity.md) | 20%|
 | | | 100%|
