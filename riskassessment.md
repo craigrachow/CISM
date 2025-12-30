@@ -1,220 +1,268 @@
-# CISM Domain 2 – Risk Assessment (22%)
+# Domain 2 – Information Security Risk Management (20%)
 
-This domain focuses on identifying, analysing, and prioritising information security risks in a consistent and business-aligned manner to support informed decision-making.
+### ISACA Domain Description (Paraphrased)
+Information security risk management identifies, analyses, responds to, and monitors risks to ensure they remain within acceptable levels.
 
----
-
-## ISACA Overview – Risk Assessment
-
-**ISACA description (paraphrased):**  
-Risk assessment identifies and evaluates information security risks to determine their potential impact on business objectives and to support risk treatment decisions.
-
-> **Exam mindset:** Risk assessment is about **decision support**, not technical discovery. Always think business impact first.
+> **Exam mindset:** Risk management exists to **support business decisions**, not to eliminate all risk.
 
 ---
 
-## 2A. Risk Identification
+## Part A – Information Security Risk Assessment
 
-### 2A1 Risk Events
+**Risk Boundaries**
+- Risk Appetite: Willingness to take risks
+- Risk Tolerance: Acceptable variation
+- Risk Capacity: Maximum barable risk
 
-**ISACA context:**  
+**Two Types of Risk**
+- Inherent Risk - The risk in the absence of any controls. or mitigation efforts.
+- Residual Risk - The level of risk remaining after controls have been applied.
+
+**Risk Categories (types)**
+- Strategic - THreats to the organisations ability to achieve strategic objective.
+- Operational - Releates to day-to-day operations. Failure of internal process, people or systems.
+- Reputational - Erode client and stakeholder trust. May be from data breaches or unethical behaviour.
+- Compliance - Non-compliance with laws, regulations, standards. Often result in fines and penalties.
+
+ISACA context:
 Risk events are specific occurrences that could negatively impact the confidentiality, integrity, or availability of information assets.
 
 **Key points:**
-- A risk event is *what happens*, not the cause.
+- A risk event is what happens, not the cause.
 - Must be clearly defined and business-relevant.
 - Events link threats, vulnerabilities, and impact.
 - Poorly defined events lead to poor decisions.
-
-**Example:**  
+- Qualitative: high/medium/low.
+- Quantitative: financial values and probabilities.
+- Example:
 “Unauthorised disclosure of customer data” is a risk event, not “malware infection”.
 
 ---
 
-### 2A2 Threat Modeling and Threat Landscape
+### 2A1 Emerging Risk and Threat Landscape
 
 **ISACA context:**  
-Threat modeling identifies potential threat sources and methods, while the threat landscape reflects current and emerging threats.
+Threat modeling identifies potential threat sources and methods, while the threat landscape reflects current and emerging threats. Emerging risks and threats reflect changes in technology, business, and adversary behaviour.
 
 **Key points:**
+- Identify potential threats (technical, physical, operational). Examine vulnerabilities to identify weak points that could result in risk. Recognise assets including third parties that keep the business running.
+- Threat landscape evolves constantly.
 - Threats can be internal, external, accidental, or intentional.
-- The threat landscape evolves constantly.
-- Intelligence sources improve accuracy.
+- Intelligence improves awareness.
+- Emerging risks involve uncertainty.
+- Early identification enables proactive action.
 - Focus on realistic and relevant threats.
+- Threat vector vs attack surface - threat vector is a specific way to breach. attack surface is the system itself. The strong the defences the smaller the attack surface and fewer threat vectors.
+
+**Memory hook:**  
+> *Unknown risks become known risks through monitoring.*
 
 **Example:**  
 Ransomware targeting healthcare organisations becomes a key threat due to increased frequency and impact.
+AI adoption introduces new privacy and security concerns.
 
 ---
 
-### 2A3 Vulnerability Management
+### 2A2 Vulnerability and Control Deficiency Analysis
 
 **ISACA context:**  
 Vulnerability management identifies weaknesses that could be exploited by threats.
 
 **Key points:**
 - Vulnerabilities may be technical, procedural, or human.
-- Identification does not equal risk acceptance.
+- Control deficiencies increase likelihood or impact.
 - Prioritisation is based on business impact.
+- Identification does not equal risk acceptance.
 - Governance focuses on process, not tools.
+
+**Memory hook:**  
+> *A vulnerability without impact is not a priority.*
 
 **Example:**  
 Lack of multi-factor authentication is a vulnerability that increases the likelihood of credential theft.
 
 ---
 
-### 2A4 Risk Scenario Development and Evaluation
+### 2A3 Risk Assessment and Analysis
 
 **ISACA context:**  
-Risk scenarios describe how a threat exploits a vulnerability to cause business impact.
-
-**Key points:**
-- Scenarios combine threat, vulnerability, and impact.
-- Improves consistency and comparability.
-- Supports executive-level understanding.
-- Helps prioritise risk treatment.
-
-**Example:**  
-A phishing email leads to credential compromise, resulting in unauthorised access to financial systems.
-
----
-
-## 2B. Risk Analysis
-
-### 2B1 Risk Assessment Concepts and Standards
-
-**ISACA context:**  
-Risk assessments should follow recognised concepts and standards to ensure consistency and credibility.
+Risk assessment evaluates likelihood and impact to prioritise risk treatment. Risk assessments should follow recognised concepts and standards to ensure consistency and credibility.
 
 **Key points:**
 - Risk = likelihood × impact.
-- Assessments must be repeatable and defensible.
-- Common standards include ISO 27005, NIST, and COBIT.
-- Consistency matters more than precision.
+- Scenarios combine threat, vulnerability, and impact.
+- Can be qualitative or quantitative.
+- Must be consistent and repeatable.
+- Using a standard scoring matrix allows comparison of risks across departments.
+- Supports decision-making and executive-level understanding.
+- Helps prioritise risk treatment. Accept, mitigate, transfer or avoid.
+- Quantitative - assigns a dollar value. Objective and uses formulars.
+- Qualitative - uses a scoring system. Subjective usually low medium high heat map.
+
+**Memory hook:**  
+> *Impact usually outweighs likelihood on the exam.*
 
 **Example:**  
-Using a standard scoring matrix allows comparison of risks across departments.
+A low-probability outage with high financial impact is prioritised.
+
 
 ---
 
-### 2B2 Business Impact Analysis (BIA)
+## Part B – Information Security Risk Response
+
+### 2B1 Risk Treatment / Risk Response Options
 
 **ISACA context:**  
-BIA evaluates the potential impact of disruptions to business processes and information assets.
+Defines how an organisation addresses identified risk.
 
 **Key points:**
-- Identifies critical processes.
-- Determines RTO and RPO.
+- Accept – within appetite.
+- Mitigate – reduce risk. apply a control to minimise. 
+- Transfer – shift risk to reduct probability or magnitude. ie 3rd party or insurance. 
+- Avoid – eliminate activity. 
+- Must align with appetite.
+- Risk acceptance SHOULD NOT exceed risk appetite and MUST NOT exceed risk capacity.
+- Business Impact Analysis (BIA) evaluates the potential impact of disruptions to business processes and information assets.
+- Identifies critical processes. Determines RTO and RPO. Inputs into BCP and DR planning.
 - Focuses on business consequences, not systems.
-- Inputs into BCP and DR planning.
+- Inherent risk shows raw exposure. Residual risk determines acceptance decisions. Residual risk must align with risk appetite.
+- Controls reduce likelihood, impact, or both.
+
+**Memory hook:**  
+> *Avoidance removes risk; mitigation reduces it.*
 
 **Example:**  
-An outage of online sales systems results in direct revenue loss and reputational damage.
+Insurance transfers financial impact but not operational disruption. An outage of online sales systems results in direct revenue loss and reputational damage.
 
 ---
 
-### 2B3 Risk Register
+### 2B2 Risk and Control Ownership
 
 **ISACA context:**  
+Controls can be preventive, detective, or corrective in nature. Clear ownership ensures accountability for risk decisions and control effectiveness.
+
+**Key points:**
+- Business owns risk.
+- Risk owner is responsible for ensuring the risk is managed appropriatly. typically senior exec, manager or director. They make decisions about risk response, allovate resources to manage, accept residual risk it it aligns to appetite, ongoing monitoring and reporting of risk. 
+- Control owners usually the same person but custodian or steward of the control ensures operation. Ensure control is designed, documented and tested.
+- Ownership supports escalation.
+- Responsibility can be delegated but Accountability cannot be delegated away.
+- Controls must be technically effective, cost effective and suppot business objectives. 
+- Control Objectives. Preventive (firewalls, training), Detective (CCTV, log monitoring), Corrective (backup/restore)
+- Control Categories. Technical (whitelisting, proxy), Administrative (policies or procedures), Physical (doors, etc)
+- Control effectiveness and assurance. self assess, audits, vulnerability scans.
+
+**Memory hook:**  
+> *Risk ownership sits with those who benefit from the risk.*
+
+**Example:**  
+A business unit accepts residual risk after control implementation.
+
+---
+
+### 2B3 Risk Monitoring and Reporting
+
+**ISACA context:**  
+Ensures risks and controls remain effective and visible over time. Inherent risk exists before controls; residual risk remains after controls are applied.
+
+**Key points:**
+- Continuous or periodic monitoring.
+- Metrics support insight. Reporting must suit the audience and enable informed decisions.
+
+**Memory hook:**  
+> *What isn’t monitored can’t be governed.*
+
+**Example:**  
+KRIs alert leadership to increasing threat activity.
+
+**Risk register:** 
 A risk register documents identified risks, their analysis, ownership, and treatment status.
 
 **Key points:**
-- Central source of risk information.
-- Assigns ownership and accountability.
-- Supports reporting and monitoring.
-- Must be kept current.
-
-**Example:**  
+- Central source of risk information. Assigns ownership and accountability.
+- Supports reporting and monitoring. Must be kept current.
+- Information Security Manager is responsible for regular risk assesments, stakeholder communication and risk status reporting inlucding open risks.
+**Example:**
 Each cyber risk includes a description, likelihood, impact, owner, and mitigation plan.
-
----
-
-### 2B4 Risk Analysis Methodologies
-
-**ISACA context:**  
-Risk analysis methodologies provide structured approaches to evaluate risk.
-
-**Key points:**
-- Qualitative: high/medium/low.
-- Quantitative: financial values and probabilities.
-- Hybrid approaches are common.
-- Choose methodology appropriate to maturity.
-
-**Example:**  
-A mature organisation uses financial loss estimates, while others use qualitative scoring.
-
----
-
-### 2B5 Inherent and Residual Risk
-
-**ISACA context:**  
-Inherent risk exists before controls; residual risk remains after controls are applied.
-
-**Key points:**
-- Inherent risk shows raw exposure.
-- Residual risk determines acceptance decisions.
-- Residual risk must align with risk appetite.
-- Controls reduce likelihood, impact, or both.
-
-**Example:**  
-Encryption reduces residual risk of data theft, but some risk still remains.
 
 ---
 
 ## Practice Exam Questions – Domain 2
 
 ### Question 1
-**What is the PRIMARY purpose of a risk assessment?**
+What MOST influences the effectiveness of security controls?
 
-**Answer:** To support informed business decisions.  
-**Explanation:** Risk assessments exist to enable decision-making, not to catalogue threats.
+**Answer:** Organizational culture.  
+**Explanation:** Culture drives behaviour when controls fail.
 
 ---
 
 ### Question 2
-**Which best describes a risk event?**
+What is the PRIMARY output of a risk assessment?
 
-**Answer:** A potential occurrence that negatively impacts business objectives.  
-**Explanation:** Risk events describe outcomes, not threats or vulnerabilities alone.
+**Answer:** Prioritised risks to support decision-making.  
+**Explanation:** Risk assessments inform action, not documentation.
 
 ---
 
 ### Question 3
-**What is the MAIN output of a business impact analysis (BIA)?**
+Which risk response option eliminates risk entirely?
 
-**Answer:** Prioritised business processes and recovery requirements.  
-**Explanation:** BIAs identify what matters most and how quickly it must be restored.
+**Answer:** Risk avoidance.  
+**Explanation:** Avoidance removes the activity creating the risk.
 
 ---
 
 ### Question 4
-**What is the PRIMARY benefit of risk scenarios?**
+Why must risk reporting be tailored to its audience?
 
-**Answer:** Improved consistency and clarity in risk evaluation.  
-**Explanation:** Scenarios help leadership understand and compare risks.
+**Answer:** To enable effective decision-making.  
+**Explanation:** Executives need summaries, not technical detail.
 
 ---
 
 ### Question 5
-**What does residual risk represent?**
+What is the PRIMARY purpose of a risk assessment?
 
-**Answer:** Risk remaining after controls are applied.  
-**Explanation:** This risk must be accepted, mitigated further, transferred, or avoided.
+**Answer:** To support informed business decisions.
+**Explanation:** Risk assessments exist to enable decision-making, not to catalogue threats.
 
 ---
 
 ### Question 6
-**Which factor MOST influences risk prioritisation?**
+Which best describes a risk event?
 
-**Answer:** Business impact.  
-**Explanation:** ISACA prioritises impact over technical severity.
+**Answer:** A potential occurrence that negatively impacts business objectives.
+**Explanation:** Risk events describe outcomes, not threats or vulnerabilities alone.
 
 ---
 
-## Exam Tip
+### Question 7
+What is the MAIN output of a business impact analysis (BIA)?
 
-For Domain 2 questions, always:
-- Focus on **business impact**
-- Prefer **structured, repeatable processes**
-- Choose answers that support **executive decision-making**
-- Avoid answers that focus purely on tools or technology
+**Answer:** Prioritised business processes and recovery requirements.
+**Explanation:** BIAs identify what matters most and how quickly it must be restored.
+
+---
+
+### Question 8
+What is the PRIMARY benefit of risk scenarios?
+
+**Answer:** Improved consistency and clarity in risk evaluation.
+**Explanation:** Scenarios help leadership understand and compare risks.
+
+---
+
+### Question 9
+What does residual risk represent?
+
+**Answer:** Risk remaining after controls are applied.
+**Explanation:** This risk must be accepted, mitigated further, transferred, or avoided.
+
+---
+
+### Question 10
+Which factor MOST influences risk prioritisation?
+
+**Answer:** Business impact.
+**Explanation:** ISACA prioritises impact over technical severity.
