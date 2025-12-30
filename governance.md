@@ -342,25 +342,34 @@ Defines how an organisation addresses identified risk.
 - Avoid – eliminate activity. 
 - Must align with appetite.
 - Risk acceptance SHOULD NOT exceed risk appetite and MUST NOT exceed risk capacity.
+- Business Impact Analysis (BIA) evaluates the potential impact of disruptions to business processes and information assets.
+- Identifies critical processes. Determines RTO and RPO. Inputs into BCP and DR planning.
+- Focuses on business consequences, not systems.
+
 
 **Memory hook:**  
 > *Avoidance removes risk; mitigation reduces it.*
 
 **Example:**  
-Insurance transfers financial impact but not operational disruption.
+Insurance transfers financial impact but not operational disruption. An outage of online sales systems results in direct revenue loss and reputational damage.
 
 ---
 
 ### 2B2 Risk and Control Ownership
 
 **ISACA context:**  
-Clear ownership ensures accountability for risk decisions and control effectiveness.
+Controls can be preventive, detective, or corrective in nature. Clear ownership ensures accountability for risk decisions and control effectiveness.
 
 **Key points:**
 - Business owns risk.
-- Control owners ensure operation.
+- Risk owner is responsible for ensuring the risk is managed appropriatly. typically senior exec, manager or director. They make decisions about risk response, allovate resources to manage, accept residual risk it it aligns to appetite, ongoing monitoring and reporting of risk. 
+- Control owners usually the same person but custodian or steward of the control ensures operation. Ensure control is designed, documented and tested.
 - Ownership supports escalation.
-- Cannot be delegated away.
+- Responsibility can be delegated but Accountability cannot be delegated away.
+- Controls must be technically effective, cost effective and suppot business objectives. 
+- Control Objectives. Preventive (firewalls, training), Detective (CCTV, log monitoring), Corrective (backup/restore)
+- Control Categories. Technical (whitelisting, proxy), Administrative (policies or procedures), Physical (doors, etc)
+- Control effectiveness and assurance. self assess, audits, vulnerability scans.
 
 **Memory hook:**  
 > *Risk ownership sits with those who benefit from the risk.*
@@ -389,3 +398,80 @@ KRIs alert leadership to increasing threat activity.
 
 ---
 
+
+2B3 Risk Register
+ISACA context:
+A risk register documents identified risks, their analysis, ownership, and treatment status.
+
+Key points:
+
+Central source of risk information.
+Assigns ownership and accountability.
+Supports reporting and monitoring.
+Must be kept current.
+Example:
+Each cyber risk includes a description, likelihood, impact, owner, and mitigation plan.
+
+2B4 Risk Analysis Methodologies
+ISACA context:
+Risk analysis methodologies provide structured approaches to evaluate risk.
+
+Key points:
+
+Qualitative: high/medium/low.
+Quantitative: financial values and probabilities.
+Hybrid approaches are common.
+Choose methodology appropriate to maturity.
+Example:
+A mature organisation uses financial loss estimates, while others use qualitative scoring.
+
+2B5 Inherent and Residual Risk
+ISACA context:
+Inherent risk exists before controls; residual risk remains after controls are applied.
+
+Key points:
+
+Inherent risk shows raw exposure.
+Residual risk determines acceptance decisions.
+Residual risk must align with risk appetite.
+Controls reduce likelihood, impact, or both.
+Example:
+Encryption reduces residual risk of data theft, but some risk still remains.
+
+Practice Exam Questions – Domain 2
+
+Question 1
+What is the PRIMARY purpose of a risk assessment?
+
+Answer: To support informed business decisions.
+Explanation: Risk assessments exist to enable decision-making, not to catalogue threats.
+
+Question 2
+Which best describes a risk event?
+
+Answer: A potential occurrence that negatively impacts business objectives.
+Explanation: Risk events describe outcomes, not threats or vulnerabilities alone.
+
+Question 3
+What is the MAIN output of a business impact analysis (BIA)?
+
+Answer: Prioritised business processes and recovery requirements.
+Explanation: BIAs identify what matters most and how quickly it must be restored.
+
+Question 4
+What is the PRIMARY benefit of risk scenarios?
+
+Answer: Improved consistency and clarity in risk evaluation.
+Explanation: Scenarios help leadership understand and compare risks.
+
+Question 5
+What does residual risk represent?
+
+Answer: Risk remaining after controls are applied.
+Explanation: This risk must be accepted, mitigated further, transferred, or avoided.
+
+Question 6
+Which factor MOST influences risk prioritisation?
+
+Answer: Business impact.
+Explanation: ISACA prioritises impact over technical severity.
