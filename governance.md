@@ -254,6 +254,8 @@ Risk events are specific occurrences that could negatively impact the confidenti
 - Must be clearly defined and business-relevant.
 - Events link threats, vulnerabilities, and impact.
 - Poorly defined events lead to poor decisions.
+- Qualitative: high/medium/low.
+- Quantitative: financial values and probabilities.
 - Example:
 “Unauthorised disclosure of customer data” is a risk event, not “malware infection”.
 
@@ -345,7 +347,8 @@ Defines how an organisation addresses identified risk.
 - Business Impact Analysis (BIA) evaluates the potential impact of disruptions to business processes and information assets.
 - Identifies critical processes. Determines RTO and RPO. Inputs into BCP and DR planning.
 - Focuses on business consequences, not systems.
-
+- Inherent risk shows raw exposure. Residual risk determines acceptance decisions. Residual risk must align with risk appetite.
+- Controls reduce likelihood, impact, or both.
 
 **Memory hook:**  
 > *Avoidance removes risk; mitigation reduces it.*
@@ -382,13 +385,11 @@ A business unit accepts residual risk after control implementation.
 ### 2B3 Risk Monitoring and Reporting
 
 **ISACA context:**  
-Ensures risks and controls remain effective and visible over time.
+Ensures risks and controls remain effective and visible over time. Inherent risk exists before controls; residual risk remains after controls are applied.
 
 **Key points:**
 - Continuous or periodic monitoring.
-- Metrics support insight.
-- Reporting must suit the audience.
-- Enables informed decisions.
+- Metrics support insight. Reporting must suit the audience and enable informed decisions.
 
 **Memory hook:**  
 > *What isn’t monitored can’t be governed.*
@@ -396,47 +397,20 @@ Ensures risks and controls remain effective and visible over time.
 **Example:**  
 KRIs alert leadership to increasing threat activity.
 
----
-
-
-2B3 Risk Register
-ISACA context:
+**Risk register:** 
 A risk register documents identified risks, their analysis, ownership, and treatment status.
 
-Key points:
-
-Central source of risk information.
-Assigns ownership and accountability.
-Supports reporting and monitoring.
-Must be kept current.
-Example:
+**Key points:**
+- Central source of risk information. Assigns ownership and accountability.
+- Supports reporting and monitoring. Must be kept current.
+- Information Security Manager is responsible for regular risk assesments, stakeholder communication and risk status reporting inlucding open risks.
+**Example:**
 Each cyber risk includes a description, likelihood, impact, owner, and mitigation plan.
 
-2B4 Risk Analysis Methodologies
-ISACA context:
-Risk analysis methodologies provide structured approaches to evaluate risk.
 
-Key points:
 
-Qualitative: high/medium/low.
-Quantitative: financial values and probabilities.
-Hybrid approaches are common.
-Choose methodology appropriate to maturity.
-Example:
-A mature organisation uses financial loss estimates, while others use qualitative scoring.
 
-2B5 Inherent and Residual Risk
-ISACA context:
-Inherent risk exists before controls; residual risk remains after controls are applied.
-
-Key points:
-
-Inherent risk shows raw exposure.
-Residual risk determines acceptance decisions.
-Residual risk must align with risk appetite.
-Controls reduce likelihood, impact, or both.
-Example:
-Encryption reduces residual risk of data theft, but some risk still remains.
+---
 
 Practice Exam Questions – Domain 2
 
