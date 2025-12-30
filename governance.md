@@ -1,4 +1,4 @@
-# CISM Domain 1 – Information Security Governance (17%)
+# Domain 1 – Information Security Governance (17%)
 Information security governance is a subset of the above focused on protecting the organisations information assets. Top down activity. Ensures security program and initiatives align and support business objectives. Translates strategic objectives into actionable policies, controls and metrics. **To ensure that the information security strategy is in alignment with the strategic goals and objectives of the business.
 
 ### ISACA Domain Description (Paraphrased)
