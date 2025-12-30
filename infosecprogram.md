@@ -46,8 +46,11 @@ Information assets must be identified and classified to determine appropriate pr
 **Key points:**
 - You cannot protect what you do not know.
 - Classification drives control selection.
-- Business owners assign value and criticality.
+- Business owners assign value and criticality. But some are tangible some intangible. 
 - Supports compliance and risk assessment.
+- Keep practical eg public, internal, confidential, restricted.
+- an Asset is anyting valuable that supports business objectives. eg data,trade secrets, records, systems, personnel and intellectual property.
+- 
 
 **Memory hook:**  
 > *Classification tells you how much protection is enough.*
@@ -67,6 +70,7 @@ Standards and frameworks provide structured guidance for building and maintainin
 - Improve consistency and maturity.
 - Enable benchmarking and assurance.
 - Should be tailored to the organisation.
+- 
 
 **Memory hook:**  
 > *Frameworks guide the program — they don’t replace thinking.*
@@ -86,6 +90,7 @@ Policies and supporting documents translate governance into actionable direction
 - Standards define mandatory requirements.
 - Procedures describe how tasks are performed.
 - Must be approved, communicated, and enforced.
+- Framework components - technical hardware/software, operational processes, management governance oversight, administrative policies standards, educational and awareness. 
 
 **Memory hook:**  
 > *Policy says what, procedure says how.*
