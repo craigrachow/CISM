@@ -12,15 +12,15 @@ Information security risk management identifies, analyses, responds to, and moni
 **Risk Boundaries**
 - Risk Appetite: Willingness to take risks
 - Risk Tolerance: Acceptable variation
-- Risk Capacity: Maximum barable risk
+- Risk Capacity: Maximum berable risk
 
 **Two Types of Risk**
 - Inherent Risk - The risk in the absence of any controls. or mitigation efforts.
 - Residual Risk - The level of risk remaining after controls have been applied.
 
 **Risk Categories (types)**
-- Strategic - THreats to the organisations ability to achieve strategic objective.
-- Operational - Releates to day-to-day operations. Failure of internal process, people or systems.
+- Strategic - Threats to the organisations ability to achieve strategic objective.
+- Operational - Related to day-to-day operations. Failure of internal process, people or systems.
 - Reputational - Erode client and stakeholder trust. May be from data breaches or unethical behaviour.
 - Compliance - Non-compliance with laws, regulations, standards. Often result in fines and penalties.
 
@@ -42,7 +42,7 @@ Risk events are specific occurrences that could negatively impact the confidenti
 ### 2A1 Emerging Risk and Threat Landscape
 
 **ISACA context:**  
-Threat modeling identifies potential threat sources and methods, while the threat landscape reflects current and emerging threats. Emerging risks and threats reflect changes in technology, business, and adversary behaviour.
+Threat modelling identifies potential threat sources and methods, while the threat landscape reflects current and emerging threats. Emerging risks and threats reflect changes in technology, business, and adversary behaviour.
 
 **Key points:**
 - Identify potential threats (technical, physical, operational). Examine vulnerabilities to identify weak points that could result in risk. Recognise assets including third parties that keep the business running.
@@ -118,7 +118,7 @@ Defines how an organisation addresses identified risk.
 **Key points:**
 - Accept – within appetite.
 - Mitigate – reduce risk. apply a control to minimise. 
-- Transfer – shift risk to reduct probability or magnitude. ie 3rd party or insurance. 
+- Transfer – shift risk to reduce probability or magnitude. ie 3rd party or insurance. 
 - Avoid – eliminate activity. 
 - Must align with appetite.
 - Risk acceptance SHOULD NOT exceed risk appetite and MUST NOT exceed risk capacity.
@@ -143,11 +143,11 @@ Controls can be preventive, detective, or corrective in nature. Clear ownership 
 
 **Key points:**
 - Business owns risk.
-- Risk owner is responsible for ensuring the risk is managed appropriatly. typically senior exec, manager or director. They make decisions about risk response, allovate resources to manage, accept residual risk it it aligns to appetite, ongoing monitoring and reporting of risk. 
+- Risk owner is responsible for ensuring the risk is managed appropriately. typically senior exec, manager or director. They make decisions about risk response, allocate resources to manage, accept residual risk it it aligns to appetite, ongoing monitoring and reporting of risk. 
 - Control owners usually the same person but custodian or steward of the control ensures operation. Ensure control is designed, documented and tested.
 - Ownership supports escalation.
 - Responsibility can be delegated but Accountability cannot be delegated away.
-- Controls must be technically effective, cost effective and suppot business objectives. 
+- Controls must be technically effective, cost effective and support business objectives. 
 - Control Objectives. Preventive (firewalls, training), Detective (CCTV, log monitoring), Corrective (backup/restore)
 - Control Categories. Technical (whitelisting, proxy), Administrative (policies or procedures), Physical (doors, etc)
 - Control effectiveness and assurance. self assess, audits, vulnerability scans.
@@ -181,7 +181,7 @@ A risk register documents identified risks, their analysis, ownership, and treat
 **Key points:**
 - Central source of risk information. Assigns ownership and accountability.
 - Supports reporting and monitoring. Must be kept current.
-- Information Security Manager is responsible for regular risk assesments, stakeholder communication and risk status reporting inlucding open risks.
+- Information Security Manager is responsible for regular risk assessments, stakeholder communication and risk status reporting including open risks.
 **Example:**
 Each cyber risk includes a description, likelihood, impact, owner, and mitigation plan.
 
