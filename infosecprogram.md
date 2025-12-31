@@ -49,9 +49,9 @@ Information assets must be identified and classified to determine appropriate pr
 - Business owners assign value and criticality. But some are tangible some intangible. 
 - Supports compliance and risk assessment.
 - Keep practical eg public, internal, confidential, restricted.
-- an Asset is anyting valuable that supports business objectives. eg data,trade secrets, records, systems, personnel and intellectual property.
-- Data Lifecycle - Create, CLassify, Store, Use, Archive, Destroy.
-- Risk assesment for business owners - risk identification, risk assessment, risk response and mitigation, risk control monitoring and reporting. 
+- an Asset is anything valuable that supports business objectives. eg data, trade secrets, records, systems, personnel and intellectual property.
+- Data Lifecycle - Create, Classify, Store, Use, Archive, Destroy.
+- Risk assessment for business owners - risk identification, risk assessment, risk response and mitigation, risk control monitoring and reporting. 
 
 **Memory hook:**  
 > *Classification tells you how much protection is enough.*
@@ -109,7 +109,7 @@ Metrics measure program effectiveness and support decision-making.
 **Key points:**
 - Metrics must align with objectives.
 - Focus on trends, not raw data.
-- Should enable action.
+- Should enable action or lead to a decision.
 - Avoid vanity metrics.
 - SMART approach. Specific clear and unambiguous. Measurable, Achievable, Relevant, Time bound.
 
