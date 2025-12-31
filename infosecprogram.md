@@ -28,7 +28,7 @@ The information security program must be adequately resourced to achieve its obj
 - Information Security Manager leads the program development, implementation and ongoing management.
 - Senior leadership and Board provides sponsorship, authority, resources and holds ultimate responsibility for IS (accountable).
 - SDLC phases - Initiation, Development/Acquisition, Implementation, Operations and Maintenance, Disposal.
-- Data Lifecycle - Create, CLassify, Store, Use, Archive, Destroy.
+
 
 **Memory hook:**  
 > *A strategy without resources is just intent.*
@@ -50,7 +50,8 @@ Information assets must be identified and classified to determine appropriate pr
 - Supports compliance and risk assessment.
 - Keep practical eg public, internal, confidential, restricted.
 - an Asset is anyting valuable that supports business objectives. eg data,trade secrets, records, systems, personnel and intellectual property.
-- 
+- Data Lifecycle - Create, CLassify, Store, Use, Archive, Destroy.
+- Risk assesment for business owners - risk identification, risk assessment, risk response and mitigation, risk control monitoring and reporting. 
 
 **Memory hook:**  
 > *Classification tells you how much protection is enough.*
@@ -70,7 +71,6 @@ Standards and frameworks provide structured guidance for building and maintainin
 - Improve consistency and maturity.
 - Enable benchmarking and assurance.
 - Should be tailored to the organisation.
-- 
 
 **Memory hook:**  
 > *Frameworks guide the program — they don’t replace thinking.*
@@ -86,9 +86,10 @@ Using ISO 27001 to structure an ISMS aligned with business risk.
 Policies and supporting documents translate governance into actionable direction.
 
 **Key points:**
-- Policies express management intent.
-- Standards define mandatory requirements.
-- Procedures describe how tasks are performed.
+- Policies express management intent. High level direction and objectives. The why
+- Standards define mandatory requirements, specifications or controls. The what
+- Procedures describe how tasks are performed. Step-by-step instructions. The how
+- Guidelines are optional and best practice. Recommendations and provide the could.
 - Must be approved, communicated, and enforced.
 - Framework components - technical hardware/software, operational processes, management governance oversight, administrative policies standards, educational and awareness. 
 
@@ -110,6 +111,7 @@ Metrics measure program effectiveness and support decision-making.
 - Focus on trends, not raw data.
 - Should enable action.
 - Avoid vanity metrics.
+- SMART approach. Specific clear and unambiguous. Measurable, Achievable, Relevant, Time bound.
 
 **Memory hook:**  
 > *If metrics don’t drive decisions, they’re noise.*
