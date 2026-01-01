@@ -154,6 +154,7 @@ Controls must be implemented and integrated into business and IT processes.
 - Poor integration weakens effectiveness.
 - Automation improves consistency.
 - Alignment with operations is critical.
+- Effective security depends on people, roles, skills and culture. well defined roles, necessary skill sets and a strong security culture.
 - Technical Control examples - encryption, passwords, acl's, firewalls
 - Physical Control examples - fences, motion detectors, alarms, locls
 - Administrative Control examples - policies, procedures, background checks, training, vulnerability assessments
