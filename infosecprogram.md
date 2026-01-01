@@ -133,6 +133,8 @@ Controls must be designed to address identified risks efficiently.
 - Design must align with business processes.
 - Over-control increases operational risk.
 - Cost-benefit analysis is essential.
+- Control Categories - technical or logical, administrative, physical.
+- Control Types - deterrent, preventive, detective, compensating, corrective, directive.
 
 **Memory hook:**  
 > *The best control is effective, not perfect.*
@@ -152,6 +154,9 @@ Controls must be implemented and integrated into business and IT processes.
 - Poor integration weakens effectiveness.
 - Automation improves consistency.
 - Alignment with operations is critical.
+- Technical Control examples - encryption, passwords, acl's, firewalls
+- Physical Control examples - fences, motion detectors, alarms, locls
+- Administrative Control examples - policies, procedures, background checks, training, vulnerability assessments
 
 **Memory hook:**  
 > *Controls must fit how the business works.*
