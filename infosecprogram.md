@@ -237,6 +237,7 @@ Effective communication ensures visibility and informed decision-making.
 - Focus on risk and impact.
 - Regular reporting supports governance.
 - Transparency builds trust.
+- Robust program has - clear objectives, contnious monitoring and evaluation, effective communication. Manages risk, meets compliance and aligns with business goals.
 
 **Memory hook:**  
 > *Executives want insight, not detail.*
