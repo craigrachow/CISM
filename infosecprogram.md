@@ -216,6 +216,8 @@ External services introduce additional security risk that must be managed.
 - Contracts enforce security expectations.
 - Monitoring ensures ongoing compliance.
 - Fourth-party risk must be considered.
+- Strong SLA's that also incoporate SOC2 and/or ISO27001 compliance.
+- Key security provisions - confidentuality and NDA agreements, right to audit, incident response plans, network connectivity, indemnity and insurances, choice of law juristiction. 
 
 **Memory hook:**  
 > *You outsource services, not accountability.*
