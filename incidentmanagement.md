@@ -19,6 +19,10 @@ A documented, approved, and tested plan that defines **roles, responsibilities, 
 - Integrated with BCP and DRP
 - Incident Management is the program and framework. Planning, policies, resource allocation etc. Ensures preparedness.
 - Incident Response is triggered when a incident is declared. Actions such as identify, comtain, eradicate, recover. Minimised impact and restore operations.
+- Handling lifecycle - Preparation, identification, containment, eradication, recovery, lessons learnt.
+- Containment is limiting the scope or magnitude of incident and preserving evidence.
+- Eradication is removing the root cause.
+- Recovery is restoring affected systems and services to meeting RTO/RPO
 
 **Example:**  
 A ransomware IRP defines escalation to legal and executive leadership before engaging law enforcement or paying ransom.
