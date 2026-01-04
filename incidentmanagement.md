@@ -1,5 +1,5 @@
 
-# CISM – Incident Management (30%)
+# CISM - Incident Management (30%)
 ## Domain: Incident Management
 
 Incident management ensures the organization can **prepare for, respond to, recover from, and learn from information security incidents** in a way that minimizes business impact and supports organizational objectives.
@@ -17,6 +17,8 @@ A documented, approved, and tested plan that defines **roles, responsibilities, 
 - Defines **who does what, when, and how**
 - Approved by senior management
 - Integrated with BCP and DRP
+- Incident Management is the program and framework. Planning, policies, resource allocation etc. Ensures preparedness.
+- Incident Response is triggered when a incident is declared. Actions such as identify, comtain, eradicate, recover. Minimised impact and restore operations.
 
 **Example:**  
 A ransomware IRP defines escalation to legal and executive leadership before engaging law enforcement or paying ransom.
