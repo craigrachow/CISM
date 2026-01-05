@@ -18,7 +18,7 @@ A documented, approved, and tested plan that defines **roles, responsibilities, 
 - Approved by senior management
 - Integrated with BCP and DRP
 - Incident Management is the program and framework. Planning, policies, resource allocation etc. Ensures preparedness.
-- Incident Response is triggered when a incident is declared. Actions such as identify, comtain, eradicate, recover. Minimised impact and restore operations.
+- Incident Response is triggered when a incident is declared. Actions such as identify, contain, eradicate, recover. Minimised impact and restore operations.
 - Handling lifecycle - Preparation, identification, containment, eradication, recovery, lessons learnt.
 - Containment is limiting the scope or magnitude of incident and preserving evidence.
 - Eradication is removing the root cause.
@@ -37,9 +37,11 @@ Plans should be **tested and updated regularly**. An untested IRP is considered 
 A process to identify and prioritize **critical business processes**, assess the **impact of disruptions**, and define **recovery requirements**.
 
 **Key context:**
+- Consider how disruptions could affect confidentiality, integrity, availability.
 - Determines **RTO (Recovery Time Objective)** and **RPO (Recovery Point Objective)**
 - Focuses on **business impact**, not threats
 - Foundation for BCP and DRP
+- The BIA tells you what is critical, how bad it is if it breaks, how long you have to fix it, what you need to fix it. 
 
 **Example:**  
 Payroll downtime of 24 hours is acceptable; customer billing downtime of 2 hours is not.
@@ -74,6 +76,12 @@ A plan focused on restoring **IT systems, data, and infrastructure** after a dis
 - IT-focused subset of BCP
 - Includes backups, system restoration, failover
 - Driven by BIA-defined RTOs/RPOs
+- RTO recovery time objective - how quickly must it be restored
+- RPO recovery point objective - how much data loss is acceptable
+- AIW acceptable interruption window - max tolerable business process downtime
+- MTD max tolerable downtime - longest the business can survive disruption
+- SDO service delivery objective - minimum service level needed during recovery
+- Should include activation triggers, roles/responsibilities, contact lists, procedures, resources, plans, communication strategy
 
 **Example:**  
 Restoring ERP systems from an offsite backup within 6 hours.
