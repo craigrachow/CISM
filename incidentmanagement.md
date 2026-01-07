@@ -137,6 +137,9 @@ Tools and methods used to **detect, analyze, respond to, and document incidents*
 - SIEM, SOAR, ticketing systems
 - Forensics tools
 - Log analysis
+- IRT lead by InfoSec Manager or dedicated IR Manager
+- If outsourcing accountability always remains with the organisation.
+- Contracts must clearly define - SLA's, regulatory comliance duties, data ownership and privacy, incident ID, change management integration, review meetings, jurisdiction and methods for conflict resolution. 
 
 **Example:**  
 Using a SIEM to correlate alerts and trigger an automated response playbook.
@@ -154,6 +157,7 @@ Activities to **identify root cause, scope, and impact** of an incident.
 - Evidence preservation
 - Chain of custody
 - Legal and regulatory considerations
+- Types of investigations - Administrative for policy or employee conduct, Criminal, Civil, Regulatory, Industry standards.
 
 **Example:**  
 Determining how an attacker gained initial access through a compromised VPN account.
