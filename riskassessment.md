@@ -37,6 +37,10 @@ Risk events are specific occurrences that could negatively impact the confidenti
 - Example:
 “Unauthorised disclosure of customer data” is a risk event, not “malware infection”.
 
+**More Risk Definitions**
+- Systemic Risk - a catagory of tish that describes thrats to a system, market or economic segment. ie finance is susceptible to systemic risk.
+- Obscure Risk - Risk that has not yet occured and is unlikely or difficult to fathom. A black swan event.
+
 ---
 
 ### 2A1 Emerging Risk and Threat Landscape
