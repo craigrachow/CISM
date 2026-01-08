@@ -18,14 +18,14 @@ The exam covers 4 domains or areas of study.
 
 | # | Domain   | Percentage|
 |---|---|---|
-|1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 26%| 
-|2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/riskassessment.md) | 22%|
-|3 | [Risk Response and Reporting](https://github.com/craigrachow/CISM/blob/main/riskresponseandreporting.md) | 32%|
-|4 | [Technology and Security](https://github.com/craigrachow/CISM/blob/main/technologyandsecurity.md) | 20%|
+|1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 17%| 
+|2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/riskassessment.md) | 20%|
+|3 | [Information Security Program](https://github.com/craigrachow/CISM/blob/main/infosecprogram.md) | 33%|
+|4 | [Incident Management]([https://github.com/craigrachow/CISM/blob/main/incidentmanagement.md]) | 30%|
 | | | 100%|
 
 ## Domains and Areas Expanded
-**Governance (26%)**     
+**Governance (17%)**     
 -  **1A Organizational Governance** 
 -  1A1 Strategy, Goals, and Objectives 
 -  1A2 Organizational Structure, Roles, and Responsibilities 
@@ -40,7 +40,7 @@ The exam covers 4 domains or areas of study.
 - 1B4 Risk Appetite and Risk Tolerance 
 - 1B5 Risk Frameworks, Legal, Regulatory, and Contractual Requirements
 
-**Risk Assessment (22%)** 
+**Risk Assessment (20%)** 
 - **2A Risk Identification**
 - 2A1 Risk Events
 - 2A2 Threat Modeling and Threat Landscape
