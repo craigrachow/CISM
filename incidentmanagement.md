@@ -139,7 +139,7 @@ Tools and methods used to **detect, analyze, respond to, and document incidents*
 - Log analysis
 - IRT lead by InfoSec Manager or dedicated IR Manager
 - If outsourcing accountability always remains with the organisation.
-- Contracts must clearly define - SLA's, regulatory comliance duties, data ownership and privacy, incident ID, change management integration, review meetings, jurisdiction and methods for conflict resolution. 
+- Contracts must clearly define - SLA's, regulatory compliance duties, data ownership and privacy, incident ID, change management integration, review meetings, jurisdiction and methods for conflict resolution. 
 
 **Example:**  
 Using a SIEM to correlate alerts and trigger an automated response playbook.
@@ -226,9 +226,10 @@ Formal review to identify **lessons learned and improvement opportunities**.
 
 **Key context:**
 - Root cause analysis
-- Control gaps
+- Control gaps or failures
 - Process improvements
 - Metrics update
+- Cost Calculation to support budget needs.
 
 **Example:**  
 Updating IRP after discovering unclear escalation paths.
