@@ -20,8 +20,8 @@ The exam covers 4 domains or areas of study.
 |---|---|---|
 |1 | [Governance](https://github.com/craigrachow/CISM/blob/main/governance.md) | 17%| 
 |2 | [Risk Assessment](https://github.com/craigrachow/CISM/blob/main/riskassessment.md) | 20%|
-|3 | [Information Security Program]([https://github.com/craigrachow/CISM/blob/main/infosecprogram.md]) | 33%|
-|4 | [Incident Management]([https://github.com/craigrachow/CISM/blob/main/incidentmanagement.md]) | 30%|
+|3 | [Information Security Program](https://github.com/craigrachow/CISM/blob/main/infosecprogram.md) | 33%|
+|4 | [Incident Management](https://github.com/craigrachow/CISM/blob/main/incidentmanagement.md) | 30%|
 | | | 100%|
 
 ## Domains and Areas Expanded
