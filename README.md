@@ -53,36 +53,37 @@ The exam covers 4 domains or areas of study.
 - 2B4 Risk Analysis Methodologies
 - 2B5 Inherent and Residual Risk
 
-**Risk Response and Reporting (32%)** 
-- **3A Risk Response** 
-- 3A1 Risk Response Options 
-- 3A2 Risk and Control Ownership 
-- 3A3 Vendor/Supply Chain Risk Management 
-- 3A4 Issues, Findings, Exceptions and Exemptions Management 
-- **3B Control Design and Implementation** 
-- 3B1 Control Frameworks, Types, and Standards 
-- 3B2 Control Design, Selection, Implementation, and Analysis 
-- 3B3 Control Testing Methodologies 
-- **3C Risk Monitoring and Reporting** 
-- 3C1 Risk Action Plans 
-- 3C2 Data Collection, Aggregation, Analysis, and Validation 
-- 3C3 Risk and Control Metrics (e.g., KRIs, KCIs, KPIs) 3C4 Risk and Control Monitoring Techniques 
-- 3C5 Risk and Control Reporting Techniques (e.g., heatmap, scorecards, dashboards) 
-- 3C6 Monitoring and Reporting of Emerging Risks
+**Information Security Program (33%)**
+- **3A Information Security Program Development**                 
+- 3A1 Information Security Program Resources (e.g., people, tools, technologies) 
+- 3A2 Information Asset Identification and Classification 
+- 3A3 Industry Standards and Frameworks for Information Security 
+- 3A4 Information Security Policies, Procedures, and Guidelines 
+- 3A5 Information Security Program Metrics 
+- **3B Information Security Program Management**                 
+- 3B1 Information Security Control Design and Selection 
+- 3B2 Information Security Control Implementation and Integrations 
+- 3B3 Information Security Control Testing and Evaluation 
+- 3B4 Information Security Awareness and Training 
+- 3B5 Management of External Services (e.g., providers, suppliers, third parties, fourth 
+parties) 
+- 3B6 Information Security Program Communications and Reporting 
 
-**Technology and Security (20%)** 
-- **4A Technology Principles**
-- 4A1 Technology Roadmaps and Enterprise Architecture (EA) 
-- 4A2 Operations Management (e.g., change management, assets, DevOps, problems, incidents) 
-- 4A3 System Development Life Cycle (SDLC) 
-- 4A4 Data Lifecycle Management 
-- 4A5 Portfolio and Project Management (e.g. Agile) 
-- 4A6 Technology Resilience and Disaster Response/Recovery 
-- 4A7 Emerging Technologies 
-- **4B Information Security Principles** 
-- 4B1 Security Concepts, Frameworks, and Standards 
-- 4B2 Security/Risk Awareness and Training 
-- 4B3 Data Privacy and Data Protection Principles
+**Incident Management (30%)**
+- **4A Incident Management Readiness**                     
+- 4A1 Incident Response Plan 
+- 4A2 Business Impact Analysis (BIA) 
+- 4A3 Business Continuity Plan (BCP) 
+- 4A4 Disaster Recovery Plan (DRP) 
+- 4A5 Incident Classification/Categorization 
+- 4A6 Incident Management Training, Testing, and Evaluation 
+- 4B Incident Management Operations**                       
+- 4B1 Incident Management Tools and Techniques 
+- 4B2 Incident Investigation and Evaluation 
+- 4B3 Incident Containment Methods 
+- 4B4 Incident Response Communications (e.g., reporting, notification, escalation) 
+- 4B5 Incident Eradication and Recovery 
+- 4B6 Post-incident Review Practices 
 
 ## References
 * Chapple, M., & Seidl, D. (2022). CompTIA PenTest+ Study Guide: Exam PT0-002 (2nd ed.). Sybex. https://amzn.to/4nBYBOF
