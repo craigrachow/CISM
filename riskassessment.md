@@ -150,6 +150,8 @@ Controls can be preventive, detective, or corrective in nature. Clear ownership 
 - Risk owner is responsible for ensuring the risk is managed appropriately. typically senior exec, manager or director. They make decisions about risk response, allocate resources to manage, accept residual risk it it aligns to appetite, ongoing monitoring and reporting of risk. 
 - Control owners usually the same person but custodian or steward of the control ensures operation. Ensure control is designed, documented and tested.
 - Ownership supports escalation.
+- Data Owner - Responsible for making decisions on how data is accessed, edited and used. Determine classification and are accountable for the risk.
+- Data Custodian - Responsible for the day to day maintenance and config of the data. 
 - Responsibility can be delegated but Accountability cannot be delegated away.
 - Controls must be technically effective, cost effective and support business objectives. 
 - Control Objectives. Preventive (firewalls, training), Detective (CCTV, log monitoring), Corrective (backup/restore)
