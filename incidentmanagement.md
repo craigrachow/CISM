@@ -21,6 +21,7 @@ A documented, approved, and tested plan that defines **roles, responsibilities, 
 - Process flow for Incident Management is Prepare, Protect, Detect, Triage, Respond. 
 - Incident Response is triggered when a incident is declared. Actions such as identify, contain, eradicate, recover. Minimised impact and restore operations.
 - Handling lifecycle - Preparation, identification, containment, eradication, recovery, lessons learnt.
+- Disruption Categories - Incident (event with a negative impact eg malfunction or disruption), Emergency/Crisis (loss of life or property), Disaster (facility is unusable for day+), Catastrophe (facility destroyed)
 - Containment is limiting the scope or magnitude of incident and preserving evidence.
 - Eradication is removing the root cause.
 - Recovery is restoring affected systems and services to meeting RTO/RPO
