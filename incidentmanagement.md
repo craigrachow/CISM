@@ -18,6 +18,7 @@ A documented, approved, and tested plan that defines **roles, responsibilities, 
 - Approved by senior management
 - Integrated with BCP and DRP
 - Incident Management is the program and framework. Planning, policies, resource allocation etc. Ensures preparedness.
+- Process flow for Incident Management is Prepare, Protect, Detect, Triage, Respond. 
 - Incident Response is triggered when a incident is declared. Actions such as identify, contain, eradicate, recover. Minimised impact and restore operations.
 - Handling lifecycle - Preparation, identification, containment, eradication, recovery, lessons learnt.
 - Containment is limiting the scope or magnitude of incident and preserving evidence.
