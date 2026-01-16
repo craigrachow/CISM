@@ -78,6 +78,7 @@ A plan focused on restoring **IT systems, data, and infrastructure** after a dis
 - IT-focused subset of BCP
 - Includes backups, system restoration, failover
 - Driven by BIA-defined RTOs/RPOs
+- The below are in a BIA Business Impact Assessment
 - RTO recovery time objective - how quickly must it be restored
 - RPO recovery point objective - how much data loss is acceptable
 - AIW acceptable interruption window - max tolerable business process downtime
@@ -101,6 +102,7 @@ A structured method to **categorize incidents by type, severity, and impact** to
 - Enables consistent handling
 - Drives escalation thresholds
 - Prevents under- or over-reaction
+- Mitigate Risk - life first, reputation second
 
 **Example:**  
 - Severity 1: Data breach involving PII  
